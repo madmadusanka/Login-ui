@@ -6,6 +6,6 @@
              mc:Ignorable="d"
              x:Class="LoginApp.App">
     <Application.Resources>
-
+<!-- -->
     </Application.Resources>
 </Application>
